@@ -29,5 +29,5 @@ Binghamton University, Bachelor of Science in Computer Science, Expected Graduat
 
 ## Contact
 
-Feel free to check out my projects and socials which are pinned on the left!
+Feel free to check out my projects and socials!
 
