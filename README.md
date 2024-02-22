@@ -29,6 +29,5 @@ Hey there! My name is Daksh and I am currently seeking internships for Summer 20
 
 ## Contact
 
-Feel free to check out my projects and socials!
-- LinkedIn: www.linkedin.com/in/dakshkmehta
-- Personal Website/Blog: https://dmehta-portfolio.vercel.app/
+Feel free to check out my projects and socials which are pinned on the left!
+
