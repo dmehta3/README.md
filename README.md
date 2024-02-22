@@ -6,7 +6,7 @@ Hey there! My name is Daksh and I am currently seeking internships for Summer 20
 
 ## Education
 
-- Binghamton University, Bachelor of Science in Computer Science, Expected Graduation: May 2025
+Binghamton University, Bachelor of Science in Computer Science, Expected Graduation: May 2025
 
 ## Skills
 
