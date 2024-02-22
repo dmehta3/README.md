@@ -27,7 +27,3 @@ Binghamton University, Bachelor of Science in Computer Science, Expected Graduat
 [![Chai.js](https://img.shields.io/badge/Chai.js-A30701?logo=chai&logoColor=white)](https://www.chaijs.com/)
 [![Sinon.js](https://img.shields.io/badge/Sinon.js-220078?logo=sinon.js&logoColor=white)](https://sinonjs.org/)
 
-## Contact
-
-Feel free to check out my projects and socials!
-
